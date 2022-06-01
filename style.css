@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: rgb(245, 227, 147);
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+.hero-image{
+    background: url(images/michael-photo.jpg) no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    padding: 155px 0;
+}
+}
+.hero-image h1{
+    font-size: 72px;
+    font-family: Roboto;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.headline h2 {
+    text-align: center;
+}
